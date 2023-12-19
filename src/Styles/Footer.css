@@ -1,0 +1,16 @@
+.yogaFooter{
+    text-align: center;
+    width:100%;
+    font-size: 2vw;
+    color: whitesmoke;
+    background-color:black;
+    position: fixed;
+}
+
+@media screen and (max-width:800px){
+    .yogaFooter{
+        position: fixed;
+        bottom:9vh;
+        font-size: 11vw;
+    }
+}
